@@ -37,8 +37,6 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(routes);
 
-require('./models');
-
 sequelize.sync({ force: true }).then(() => require('./seeds'))
 {
   app.listen(PORT, () => console.log('Now listening'));
