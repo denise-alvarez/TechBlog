@@ -6,7 +6,7 @@ textarea {
 
 .post-box {
     /* background-color: #070f4e; */
-    background-color: #062925;
+    background-color: #5f0774;
     padding: 15px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -19,7 +19,7 @@ textarea {
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-    background-color: #044a42;
+    background-color: #48248c;
     cursor: pointer;
     margin-bottom: 10px;
     padding: 5px;
@@ -31,8 +31,7 @@ textarea {
 }
 
 .content-box {
-    /* background-color: #100c08; */
-    background-color: #044a42;
+    background-color: #1691b7;
     padding: 10px;
 }
 
@@ -50,10 +49,6 @@ textarea {
     color: white;
     font-family: monospace;
     font-size: 1.2rem;
-    /* cursor: pointer; */
-    border-radius: 15px;
-    /* margin-left: auto;
-    margin-right: auto; */
     width: fit-content;
     text-align: center;
     border: 0;
