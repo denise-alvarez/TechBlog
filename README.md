@@ -21,7 +21,7 @@ This application is a CMS-style blog site similar to a Wordpress site, where dev
 
 ![Screenshot](/public/assets/images/home.png)
 
-[Heroku](https://git.heroku.com/pure-sea-32562.git)
+[Heroku](https://pure-sea-32562.herokuapp.com/)
 
 [Denise Alvarez GitHub Link](https://github.com/denise-alvarez) <br/>
 [Find Repo Here](https://github.com/denise-alvarez/TechBlog.git)
