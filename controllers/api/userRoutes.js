@@ -29,7 +29,7 @@ router.post("/", async (req, res) => {
     });
   } catch (err) {
     console.log(err);
-    res.status(500).json({ message: "Invalid entries or server error" });
+    res.status(500).json({ message: "Invalid entries or server error", error: err });
   }
 });
 
